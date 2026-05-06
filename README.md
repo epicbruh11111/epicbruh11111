@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mohammed Magdi</h1>  
+<h1 align="center">Hi 👋, I'm Ark</h1>  
 
 **`A 16 year old software enthusiast working on deep level and complex projects started my journey of testing when I was 12`**  
 
